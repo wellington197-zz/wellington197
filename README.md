@@ -4,8 +4,7 @@
 **wellington197/wellington197** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellington197)](https://github.com/wellington197)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/fco-wellington-costa
-/)](https://www.linkedin.com/in/www.linkedin.com/in/fco-wellington-costa
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/fco-wellington-costa/)](https://www.linkedin.com/in/www.linkedin.com/in/fco-wellington-costa/)
 /)
 
 Here are some ideas to get you started:
