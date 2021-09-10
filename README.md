@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-💻 Atualmente sou um grupo de estudos sobre ** Frontend e Mobile /DevOps **
+💻 Atualmente buscando conhecimento sobre ** Frontend e Mobile /DevOps **
 
-Assuntos paralelos de meu interesse e estudos " Javascript/ Fluter / Devops / Doker / Python "
+Assuntos de meu interesse e estudos " Javascript/ Fluter / Devops / Doker / Python "
 
 👨‍ Todos os meus projetos estarão disponíveis em https://github.com/wellington197
 
