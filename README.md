@@ -11,7 +11,11 @@ Assuntos de meu interesse e estudos " Javascript/ Fluter / Devops / Doker / Pyth
 
 👨‍ Todos os meus projetos estarão disponíveis em https://github.com/wellington197
 
-📫 Como me encontrar Email: fcowellcosta@gmail.com
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellington197)](https://github.com/wellington197)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wellington197
+)](www.linkedin.com/in/wellington197)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wellington_197)](https://twitter.com/wellington_197)
+[!Gmail Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wellington_197)](https://twitter.com/wellington_197)
 
 
 <h3 align="left">Languages and Tools:</h3>
