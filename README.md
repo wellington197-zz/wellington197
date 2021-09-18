@@ -3,6 +3,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /> </p>
 
 
+ [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/wellington197)](https://github.com/wellington197)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wellington197
+)](www.linkedin.com/in/wellington197)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wellington_197)](https://twitter.com/wellington_197)
+[!Gmail Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/wellington_197)](https://twitter.com/wellington_197)
+
+
+
+
+
 Here are some ideas to get you started:
 💻 Atualmente buscando conhecimento sobre ** Frontend e Mobile /DevOps **
 
@@ -23,7 +33,6 @@ Assuntos de meu interesse e estudos " Javascript/ Fluter / Devops / Doker / Pyth
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
   
   
