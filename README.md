@@ -1,12 +1,12 @@
 
-  <h1 align="center">Hi 👋, I'm Wellington</h1>
+<h1 align="center">Hi, I'm Wellington Costa</h1>
 <h3 align="center">Seja bem vindo ao meu Github 👋</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /> </p>
 
 
 <p align="left">Sou formado em analise e desenvolvimento de sistemas, atualmente buscando conhecimento com ênfase em Frontend, Mobile e DevOps, QA e Containers Docker.</p>
-<p align="left">🌱 Tenho estudado docker containers</p>
+<p align="left">🌱 Tenho estudado sobre FrontEnd, JavaScript e entrega contínua, Github Actions e docker containers</p>
 <p align="left">👯 Estou iniciando no medium.com/jovanneves e dev.to/jovanneves</p>
 <p align="left">🤔 Posso colaborar com conhecimentos sobre programação Frontend</p>
 <p align="left">📫 Meu contato LINKEDIN: https://www.linkedin.com/in/wellington197</p>
@@ -18,13 +18,6 @@
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="www.linkedin.com/in/fco-wellington-costa" height="30" width="40" />
 </a>
 <p align="left">
-
-
-💻 Atualmente buscando conhecimento sobre ** Frontend e Mobile /DevOps **
-
-Assuntos de meu interesse e estudos " Javascript/ Fluter / Devops / Doker / Python "
-
-👨‍ Todos os meus projetos estarão disponíveis em https://github.com/wellington197
 
 <div>
   <a href="https://github.com/wellington197">
