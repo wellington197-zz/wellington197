@@ -8,7 +8,8 @@
 <p align="left">Sou formado em analise e desenvolvimento de sistemas, atualmente buscando conhecimento com ênfase em Frontend, Mobile e DevOps, QA e Containers Docker.</p>
 <p align="left">🌱 Tenho estudado sobre FrontEnd, JavaScript e entrega contínua, Github Actions e docker containers</p>
 <p align="left">🤔 Posso colaborar com conhecimentos sobre programação Frontend</p>
-<p align="left">📫 Meu contato LINKEDIN: https://www.linkedin.com/in/wellington197</p>
+<p align="left">🌱 No tempo livre gosto de Esportes, Filmes e Séries</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
